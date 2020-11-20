@@ -5,8 +5,8 @@ const WooCommerceRestApi = require("@woocommerce/woocommerce-rest-api").default;
 
 const api = new WooCommerceRestApi({
   url: "https://www.bffclothing.org/",
-  consumerKey: "",
-  consumerSecret: "",
+  consumerKey: "ck_d4bc40bb6a128e06757682352c3d136a3a4865a4",
+  consumerSecret: "cs_902488a8b4fbcf1d3a91a8f99d31820e282ad1c7",
   version: "wc/v3"
 });
 // var tempData
